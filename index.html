@@ -4,15 +4,14 @@ layout: default
 
 <div class="home">
     <ul class="post-list">
-        {% for post in site.posts %}
+        {% for job in site.posts %}
             <li>
                 <h2>
-                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                    <a class="post-link" href="{{ job.url | prepend: site.baseurl }}">{{ job.title }}</a>
                 </h2>
-                <span class="post-meta">Last updated: {{ post.date | date: "%b %-d, %Y" }}</span>
+                <p>{{ job.type }} - {{ job.location }}</p>
+                <span class="post-meta">Last updated: {{ job.date | date: "%b %-d, %Y" }}</span>
             </li>
         {% endfor %}
     </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>

@@ -2,6 +2,7 @@
 title: Jobs at GitBook
 email: contact@gitbook.com
 description:  All open positions to work at GitBook.com
+owner: GitBook
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jobs.gitbook.com" # the base hostname & protocol for your site
 twitter_username: GitBookIO
