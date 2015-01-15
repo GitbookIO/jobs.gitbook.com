@@ -3,8 +3,8 @@ title: Jobs at GitBook
 email: contact+jobs@gitbook.com
 description:  All open positions to work at GitBook.com
 owner: GitBook
-baseurl: "/jobs.gitbook.com/"
-url: "http://gitbookio.github.io"
+baseurl: ""
+url: "http://jobs.gitbook.com"
 
 # Build settings
 markdown: kramdown
