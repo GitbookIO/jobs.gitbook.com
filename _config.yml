@@ -1,6 +1,6 @@
 # Site settings
 title: Jobs at GitBook
-email: contact@gitbook.com
+email: contact+jobs@gitbook.com
 description:  All open positions to work at GitBook.com
 owner: GitBook
 baseurl: "/jobs.gitbook.com/"
