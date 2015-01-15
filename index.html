@@ -6,11 +6,11 @@ layout: default
     <ul class="post-list">
         {% for job in site.posts %}
             <li>
+                <a class="post-apply" href="{{ job.url | prepend: site.baseurl }}">See details</a>
                 <h2>
                     <a class="post-link" href="{{ job.url | prepend: site.baseurl }}">{{ job.title }}</a>
                 </h2>
-                <p>{{ job.type }} - {{ job.location }}</p>
-                <span class="post-meta">Last updated: {{ job.date | date: "%b %-d, %Y" }}</span>
+                <span class="post-meta">{{ job.type }} - {{ job.location }} - Last update: {{ job.date | date: "%b %-d, %Y" }}</span>
             </li>
         {% endfor %}
     </ul>

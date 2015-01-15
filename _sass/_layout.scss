@@ -120,6 +120,24 @@
 
     > li {
         margin-bottom: $spacing-unit;
+        padding: 10px;
+        border-radius: 4px;
+        background: #f8f8f8;
+
+        .post-link {
+            display: block;
+            font-size: 24px;
+        }
+
+        .post-apply {
+            display: block;
+            float: right;
+            padding: 6px 8px;
+        }
+
+        h2 {
+            margin-bottom: 10px;
+        }
     }
 }
 
@@ -128,10 +146,6 @@
     color: $grey-color;
 }
 
-.post-link {
-    display: block;
-    font-size: 24px;
-}
 
 
 
@@ -140,6 +154,7 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+    text-align: center;
 }
 
 .post-title {
@@ -150,6 +165,10 @@
     @include media-query($on-laptop) {
         font-size: 36px;
     }
+}
+
+.post-jobapply {
+    
 }
 
 .post-content {
