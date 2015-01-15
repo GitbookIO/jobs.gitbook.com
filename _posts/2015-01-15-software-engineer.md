@@ -12,12 +12,13 @@ location: Remote / France
 ### Skills/Experience Required:
 * Javascript – including server-side with Node.js
 * HTML/CSS – not a web designer, but extremely good at implementing markup
+* Passion to automate and document everything.
 * Ability to own projects end-to-end
 
 ### Bonus skills:
 * Other languages/frameworks (e.g. Go)
 * Performance optimization, SQL tuning, caching strategies
-* HTML5 fanciness (e.g. websockets, canvas, components)
+* Design skills
 * Amazon Web Services (AWS e.g. S3, EC2)
 * Command Line Interfaces
 * Having founded your own startup

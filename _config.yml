@@ -5,8 +5,6 @@ description:  All open positions to work at GitBook.com
 owner: GitBook
 baseurl: "/jobs.gitbook.com/"
 url: "http://gitbookio.github.io"
-twitter_username: GitBookIO
-github_username:  GitBookIO
 
 # Build settings
 markdown: kramdown
