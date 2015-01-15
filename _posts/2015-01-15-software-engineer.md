@@ -18,8 +18,6 @@ location: Remote / France
 * Ability to own projects end-to-end
 * Experience with social coding tools like Git and GitHub
 * Experience developing and releasing open source software
-* Experience working with an existing open source community
-* Must be an open source pragmatist
 
 ### Bonus skills:
 * Other languages/frameworks (e.g. Go)
