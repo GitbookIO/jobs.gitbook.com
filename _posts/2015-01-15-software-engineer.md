@@ -7,6 +7,8 @@ type: Regular (Full Time)
 location: Remote / France
 ---
 
+As a software engineer you will be a core addition to our technical team, you will contribute to improve and design both new and existing features, everything from the core book toolchain (book format), the website, collaboration tools and backend servers. It's an exciting but challenging opportunity to be part of a growing startup with a passionate founding team.
+
 ### Responsibilities:
 * Design and implement awesome new features
 * Write code that is performant, maintainable, clear, and concise
@@ -24,12 +26,13 @@ location: Remote / France
 * Performance optimization
 * Design skills
 * Amazon Web Services (AWS e.g. S3, EC2)
-* Command Line Interfaces
-* Having founded your own startup
+* Command Line Interfacesw
+* Past startup experience (as founder/co-founder or employee)
 
 ### Perks and Benefices:
 * Equity
 * Flexibility (Remote and flexible hours)
+* Be part of a very strong technical team, which will be a strong learning experience for most
 
 ### You should include these in your application:
 
