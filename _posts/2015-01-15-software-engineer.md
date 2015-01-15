@@ -32,7 +32,6 @@ As a software engineer you will be a core addition to our technical team, you wi
 ### Perks and Benefices:
 * Equity
 * Flexibility (Remote and flexible hours)
-* Be part of a very strong technical team, which will be a strong learning experience for most
 
 ### You should include these in your application:
 
