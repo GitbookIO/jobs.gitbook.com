@@ -16,6 +16,8 @@ layout: default
 	</article>
 
 	<footer class="post-jobapply">
-		<p>To apply, send us an email at <a href="mailto:{{ site.email }}">{{ site.email }}</a> with links to your Linkedin and GitHub profiles.</p>
+		<hr>
+		<p>To apply, send us an email at <a href="mailto:{{ site.email }}?subject={{ page.title| prepend: "Job: " | uri_escape }}">{{ site.email }}</a> with links to your Linkedin and GitHub profiles.</p>
+		<a href="mailto:{{ site.email }}?subject={{ page.title| prepend: "Job: " | uri_escape }}" class="apply-button">Apply to GitBook</a>
 	</footer>
 </div>

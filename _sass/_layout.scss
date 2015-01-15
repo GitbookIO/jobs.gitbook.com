@@ -153,7 +153,7 @@
  * Posts
  */
 .post-header {
-    margin-bottom: $spacing-unit;
+    margin-bottom: 2*$spacing-unit;
     text-align: center;
 }
 
@@ -168,7 +168,30 @@
 }
 
 .post-jobapply {
-    
+    text-align: center;
+
+    hr {
+        margin: 20px auto;
+        margin-top: 2*$spacing-unit;
+        width: 15%;
+        border: none;
+        border-top: 1px solid #ddd;
+    }
+
+    .apply-button {
+        display: inline-block;
+        margin-top: $spacing-unit/2;
+        border-radius: 4px;
+        color: #f0f0f0;
+        background-color: #3f81c7;
+        font-size: 1.3em;
+        padding: 11px 25px;
+
+        &:hover {
+            text-decoration: none;
+            background-color: #4a88cb;
+        }
+    }
 }
 
 .post-content {
