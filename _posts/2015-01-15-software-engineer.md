@@ -14,6 +14,9 @@ location: Remote / France
 * HTML/CSS – not a web designer, but extremely good at implementing markup
 * Passion to automate and document everything.
 * Ability to own projects end-to-end
+* Experience developing and releasing open source software
+* Experience working with an existing open source community
+* Must be an open source pragmatist
 
 ### Bonus skills:
 * Other languages/frameworks (e.g. Go)
