@@ -26,7 +26,7 @@ As a software engineer you will be a core addition to our technical team, you wi
 * Performance optimization
 * Design skills
 * Amazon Web Services (AWS e.g. S3, EC2)
-* Command Line Interfacesw
+* Command Line Interfaces
 * Past startup experience (as founder/co-founder or employee)
 
 ### Perks and Benefices:
