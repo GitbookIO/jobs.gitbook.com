@@ -8,6 +8,8 @@ location: Remote / France
 ---
 
 ### Responsibilities:
+* Design and implement awesome new features
+* Write code that is performant, maintainable, clear, and concise
 
 ### Skills/Experience Required:
 * Javascript – including server-side with Node.js
@@ -21,7 +23,7 @@ location: Remote / France
 
 ### Bonus skills:
 * Other languages/frameworks (e.g. Go)
-* Performance optimization, SQL tuning, caching strategies
+* Performance optimization
 * Design skills
 * Amazon Web Services (AWS e.g. S3, EC2)
 * Command Line Interfaces
