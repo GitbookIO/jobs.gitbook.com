@@ -30,6 +30,8 @@ location: Remote / France
 * Having founded your own startup
 
 ### Perks and Benefices:
+* Equity
+* Flexibility (Remote and flexible hours)
 
 ### You should include these in your application:
 
