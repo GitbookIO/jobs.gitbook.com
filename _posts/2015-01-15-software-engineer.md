@@ -4,7 +4,7 @@ title:  "Software Engineer"
 date:   2015-01-15 06:35:41
 categories: engineering
 type: Regular (Full Time)
-location: Remote / France
+location: Lyon, France
 ---
 
 As a software engineer you will be a core addition to our technical team, you will contribute to improve and design both new and existing features, everything from the core book toolchain (book format), the website, collaboration tools and backend servers. It's an exciting but challenging opportunity to be part of a growing startup with a passionate founding team.
