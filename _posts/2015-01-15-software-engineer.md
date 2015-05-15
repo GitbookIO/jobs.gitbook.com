@@ -22,7 +22,7 @@ As a software engineer you will be a core addition to our technical team, you wi
 * Experience developing and releasing open source software
 
 ### Bonus skills:
-* Other languages/frameworks (e.g. Go)
+* Other languages/frameworks (e.g. Go, React)
 * Performance optimization
 * Design skills
 * Amazon Web Services (AWS e.g. S3, EC2)
