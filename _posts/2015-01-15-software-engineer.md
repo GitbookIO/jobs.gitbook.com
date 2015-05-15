@@ -35,7 +35,6 @@ As a software engineer you will be a core addition to our technical team, you wi
 
 ### You should include these in your application:
 
-* A writeup explaining who you are as a programmer. Sample questions you might want to address: How'd you get started? What projects have you enjoyed working on? Which have you disliked? What motivates you? What surprising things have you learned about yourself since starting to program?
 * Links to online profiles you use (Github, Twitter, etc).
 * A description of your work history (whether as a resume, LinkedIn profile, or prose).
 
