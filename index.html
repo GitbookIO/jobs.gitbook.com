@@ -10,7 +10,7 @@ layout: default
                 <h2>
                     <a class="post-link" href="{{ job.url | prepend: site.baseurl }}">{{ job.title }}</a>
                 </h2>
-                <span class="post-meta">{{ job.type }} - {{ job.location }} - {{ job.date | date: "%b %-d, %Y" }}</span>
+                <span class="post-meta">{{ job.type }} - {{ job.location }}</span>
             </li>
         {% endfor %}
     </ul>
