@@ -29,7 +29,7 @@ As a software engineer you will be a core addition to our technical team, you wi
 * Command Line Interfaces
 * Past startup experience (as founder/co-founder or employee)
 
-### Perks and Benefices:
+### Perks and benefits:
 * Equity
 * Flexibility (Remote and flexible hours)
 
