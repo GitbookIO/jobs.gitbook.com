@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /:basename
 title:  "UI/UX Designer"
 date:   2016-05-19 16:32:00
 categories: design

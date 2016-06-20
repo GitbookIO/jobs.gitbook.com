@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /:basename
 title:  "Head of Growth/Marketing"
 date:   2016-06-20 11:00:00
 categories: marketing

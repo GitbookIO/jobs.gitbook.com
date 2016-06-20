@@ -6,5 +6,7 @@ owner: GitBook
 baseurl: ""
 url: "http://jobs.gitbook.com"
 
+include: ['_pages']
+
 # Build settings
 markdown: kramdown

@@ -4,7 +4,8 @@ layout: default
 
 <div class="home">
     <ul class="post-list">
-        {% for job in site.posts %}
+        {% for job in site.pages %}
+            {% if job.type %}
             <li>
                 <a class="post-apply" href="{{ job.url | prepend: site.baseurl }}">See details</a>
                 <h2>
@@ -12,6 +13,7 @@ layout: default
                 </h2>
                 <span class="post-meta">{{ job.type }} - {{ job.location }}</span>
             </li>
+            {% endif %}
         {% endfor %}
     </ul>
 </div>
