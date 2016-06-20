@@ -4,7 +4,7 @@ title:  "Head of Growth/Marketing"
 date:   2016-06-20 11:00:00
 categories: marketing
 type: Regular (Full Time) or Part-Time
-location: Lyon, France or Remote (US preferred)
+location: Lyon, France
 ---
 
 We are looking for a talented and ambitious person to head our growth efforts. You'll join a small but ambitious team, building a product used by hundreds of thousands of users worldwide. We have strong and organic growth, with lots of room for improvement and low hanging fruit ready to be picked by the right person.
@@ -16,6 +16,7 @@ We are looking for a talented and ambitious person to head our growth efforts. Y
 * Marketing
 * Branding
 * Working hand in hand with the product and engineering team to figure out which features to launch or need to be optimized based on analytics
+* Customer success/happiness
 
 ### Required experience/skills:
 * Curious and willing to learn
